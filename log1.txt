@@ -1,0 +1,2 @@
+Hello from logger1
+Hello from logger1
