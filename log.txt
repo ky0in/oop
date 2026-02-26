@@ -1,0 +1,4 @@
+Volání funkce ahoj s parametry: ('Petr',), {}
+Volání funkce cau s parametry: (), {}
+Volání funkce ahoj s parametry: ('Petr',), {}
+Volání funkce cau s parametry: (), {}
